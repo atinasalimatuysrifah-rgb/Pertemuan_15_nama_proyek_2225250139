@@ -1,0 +1,9 @@
+=== HASIL ANALISIS NILAI ===
+Jumlah Siswa       : 1
+Rata-rata          : 85.00
+Nilai Minimum      : 85.0
+Nilai Maksimum     : 85.0
+Lulus              : 1
+Tidak Lulus        : 0
+============================
+
